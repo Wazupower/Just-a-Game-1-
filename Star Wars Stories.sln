@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Wars Stories.Plugins", "Star Wars Stories.Plugins.csproj", "{2C7A1919-2E86-8017-C149-C69B883C23E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Wars Stories", "Star Wars Stories.csproj", "{5F366504-A30F-EB41-7D6D-75251E8EE32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Star Wars Stories.Editor.Plugins", "Star Wars Stories.Editor.Plugins.csproj", "{735F24B1-7626-2A82-4DD6-6B9DF9D339B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7A1919-2E86-8017-C149-C69B883C23E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7A1919-2E86-8017-C149-C69B883C23E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7A1919-2E86-8017-C149-C69B883C23E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7A1919-2E86-8017-C149-C69B883C23E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F366504-A30F-EB41-7D6D-75251E8EE32C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F366504-A30F-EB41-7D6D-75251E8EE32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F366504-A30F-EB41-7D6D-75251E8EE32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F366504-A30F-EB41-7D6D-75251E8EE32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735F24B1-7626-2A82-4DD6-6B9DF9D339B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735F24B1-7626-2A82-4DD6-6B9DF9D339B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735F24B1-7626-2A82-4DD6-6B9DF9D339B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735F24B1-7626-2A82-4DD6-6B9DF9D339B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
